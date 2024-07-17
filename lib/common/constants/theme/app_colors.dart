@@ -9,7 +9,7 @@ class AppColors {
   static const Color backgroundColor = Color(0xFFFFFFFF);
   static const Color surfaceColor = Color(0xFF121212);
   static const Color errorColor = Color(0xFFB00020);
-  static const Color onPrimaryColor = Color(0xFFFFFFFF);
+  static const Color onPrimaryColor = Colors.blue;
   static const Color onSecondaryColor = Color(0xFF000000);
   static const Color onBackgroundColor = Color(0xFF000000);
   static const Color onSurfaceColor = Color(0xFFFFFFFF);
